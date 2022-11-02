@@ -1,5 +1,6 @@
 import { Product } from "../../types"
 
+
 const ProductDetail = ({
   item: {
     category,
